@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1583150448 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab06 stack\task 1\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1583150448 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab06 stack\task 1\stacktype.h
+
+1583150593 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab06 stack\task 1\main.cpp
+	<iostream>
+	"StackType.cpp"
+
+1583150448 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab06 stack\task 1\stacktype.cpp
+	"StackType.h"
+	<iostream>
+

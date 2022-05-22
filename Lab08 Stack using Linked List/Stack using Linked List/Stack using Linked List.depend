@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585152920 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab08 stack using linked list\stack using linked list\main.cpp
+	<iostream>
+	"Stack.cpp"
+
+1585152901 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab08 stack using linked list\stack using linked list\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1585152201 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab08 stack using linked list\stack using linked list\stack.h
+
+1585152901 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab08 stack using linked list\stack using linked list\stack.cpp
+	<iostream>
+	"Stack.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1582382182 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\cse-225 lab\lab 5 sorted list\task1\main.cpp
+	<iostream>
+	"TimeStamp.cpp"
+
+1582382182 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\cse-225 lab\lab 5 sorted list\task1\timestamp.cpp
+	"TimeStamp.h"
+	<iostream>
+
+1582381322 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\cse-225 lab\lab 5 sorted list\task1\timestamp.h
+
+1582382182 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab05 sorted list\task 2\main.cpp
+	<iostream>
+	"TimeStamp.cpp"
+
+1582382182 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab05 sorted list\task 2\timestamp.cpp
+	"TimeStamp.h"
+	<iostream>
+
+1582381322 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab05 sorted list\task 2\timestamp.h
+
