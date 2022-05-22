@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585944940 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\circular linked list\main.cpp
+	<iostream>
+	"Circular Linked List.cpp"
+
+1585945247 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\circular linked list\circular linked list.cpp
+	<iostream>
+	"Circular Linked List.h"
+
+1585941496 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\circular linked list\circular linked list.h
+
+1585945044 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\circular linked list\circular linked list.cpp
+	<iostream>
+	"Circular Linked List.h"
+

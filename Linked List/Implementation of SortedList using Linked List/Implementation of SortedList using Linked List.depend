@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585890790 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of sortedlist using linked list\main.cpp
+	<iostream>
+	"SortedList.cpp"
+
+1585890996 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of sortedlist using linked list\sortedlist.cpp
+	<iostream>
+	"SortedList.h"
+
+1585028015 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of sortedlist using linked list\sortedlist.h
+
+1585890996 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of sortedlist using linked list\sortedlist.cpp
+	<iostream>
+	"SortedList.h"
+

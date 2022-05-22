@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585900841 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\doubly linked list\main.cpp
+	<iostream>
+	"DoublyLinkedList.cpp"
+
+1585900809 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\doubly linked list\doublylinkedlist.cpp
+	<iostream>
+	"DoublyLinkedList.h"
+
+1585900340 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\doubly linked list\doublylinkedlist.h
+
+1585900809 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\doubly linked list\doublylinkedlist.cpp
+	<iostream>
+	"DoublyLinkedList.h"
+

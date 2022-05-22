@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584979892 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of unsorted list using linked list\unsortedlist.cpp
+	"UnsortedList.h"
+	<iostream>
+
+1584976508 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of unsorted list using linked list\unsortedlist.h
+
+1584979892 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of unsorted list using linked list\main.cpp
+	<iostream>
+	"UnsortedList.cpp"
+
+1584979892 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\linked list\implementation of unsorted list using linked list\unsortedlist.cpp
+	"UnsortedList.h"
+	<iostream>
+
