@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580841843 source:g:\nsu cse\4th_spring'20\cse 225 lab\cse-225 lab\lab 2 classes & objects\task 2\main.cpp
+	<iostream>
+	"dynamicArray.h"
+	"dynamicArray.cpp"
+
+1580841419 g:\nsu cse\4th_spring'20\cse 225 lab\cse-225 lab\lab 2 classes & objects\task 2\dynamicarray.h
+
+1580841737 g:\nsu cse\4th_spring'20\cse 225 lab\cse-225 lab\lab 2 classes & objects\task 2\dynamicarray.cpp
+	"dynamicArray.h"
+	<iostream>
+
