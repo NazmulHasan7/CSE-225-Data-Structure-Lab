@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1591013428 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\main.cpp
+	<iostream>
+	<string.h>
+	"TransportGraph.cpp"
+
+1591014275 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\transportgraph.cpp
+	"TransportGraph.h"
+	"Stack.cpp"
+	"Queue.cpp"
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
+1591012542 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\transportgraph.h
+	"Stack.h"
+	"Queue.h"
+
+1590685952 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\stack.h
+
+1590682768 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\queue.h
+
+1590682771 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1590682770 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1590682770 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1590682771 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1591014275 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\final assignment\transportgraph.cpp
+	"TransportGraph.h"
+	"Stack.cpp"
+	"Queue.cpp"
+	<iostream>
+	<stdio.h>
+	<iomanip>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1590762386 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\task 1\transportgraph.cpp
+	"TransportGraph.h"
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
+1590674359 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\task 1\transportgraph.h
+
+1590675557 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\task 1\main.cpp
+	<iostream>
+	<string.h>
+	"TransportGraph.cpp"
+
+1590762386 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\final assignment\task 1\transportgraph.cpp
+	"TransportGraph.h"
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
