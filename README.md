@@ -9,6 +9,6 @@
 </p>
 <p align="center">
    CSE 225 LAB<br>
-   Data Structure Lab<br>
+   Data Structure & Algorithm Lab<br>
  <p>
 
