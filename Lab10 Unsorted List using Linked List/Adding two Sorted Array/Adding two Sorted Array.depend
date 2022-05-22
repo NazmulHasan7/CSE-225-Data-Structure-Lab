@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585760035 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab10 unsorted list using linked list\adding two sorted array\unsortedlist.cpp
+	<iostream>
+	"UnsortedList.h"
+
+1585760035 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab10 unsorted list using linked list\adding two sorted array\unsortedlist.h
+
+1585763500 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab10 unsorted list using linked list\adding two sorted array\main.cpp
+	<iostream>
+	"UnsortedList.cpp"
+
+1585760035 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab10 unsorted list using linked list\adding two sorted array\unsortedlist.cpp
+	<iostream>
+	"UnsortedList.h"
+

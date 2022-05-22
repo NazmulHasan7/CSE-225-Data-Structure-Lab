@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1586551633 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab13 binary search tree\binary search tree\main.cpp
+	<iostream>
+	"Binary Search Tree.cpp"
+
+1586544060 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab13 binary search tree\binary search tree\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1586544060 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab13 binary search tree\binary search tree\queue.h
+
+1586548920 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab13 binary search tree\binary search tree\binary search tree.cpp
+	<iostream>
+	"Queue.cpp"
+	"Binary Search Tree.h"
+
+1586544060 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab13 binary search tree\binary search tree\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1586544462 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab13 binary search tree\binary search tree\binary search tree.h
+	"Queue.h"
+
+1586548920 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab13 binary search tree\binary search tree\binary search tree.cpp
+	<iostream>
+	"Queue.cpp"
+	"Binary Search Tree.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585595941 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\coin change problem\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1585595941 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\coin change problem\queue.h
+
+1585842549 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\coin change problem\main.cpp
+	<iostream>
+	"Queue.cpp"
+
+1585595941 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\coin change problem\queue.cpp
+	<iostream>
+	"Queue.h"
+

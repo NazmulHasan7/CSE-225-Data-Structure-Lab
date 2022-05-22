@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585592442 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1585592442 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\queue.h
+
+1585592477 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\main.cpp
+	<iostream>
+	"Queue.cpp"
+
+1585592442 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\lab09 queue using linked list\queue.cpp
+	<iostream>
+	"Queue.h"
+
