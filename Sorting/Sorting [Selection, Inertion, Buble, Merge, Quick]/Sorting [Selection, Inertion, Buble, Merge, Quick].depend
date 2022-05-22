@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1587138794 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\sorting\sorting [selection, inertion, buble, merge, quick]\main.cpp
+	<iostream>
+	"ArraySort.cpp"
+
+1587139498 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\sorting\sorting [selection, inertion, buble, merge, quick]\arraysort.cpp
+	"ArraySort.h"
+	<iostream>
+
+1587139596 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\sorting\sorting [selection, inertion, buble, merge, quick]\arraysort.h
+
+1587138962 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\sorting\sorting [selection, inertion, buble, merge, quick]\arraysort.cpp
+	"ArraySort.h"
+	<iostream>
+

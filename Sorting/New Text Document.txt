@@ -1,0 +1,129 @@
+
+//Common Swap function for all sorting
+void Swap(int &a, int &b)
+{
+    int temp = a;
+    a = b;
+    b = temp;
+}
+
+//Bubble Sort
+
+void BubbleUp(int arr[], int start, int end,int &flag)
+{
+    flag = 0;
+    for(int i=end; i>start; i--)
+    {
+        if(arr[i-1] > arr[i]){
+            Swap(arr[i-1],arr[i]);
+            flag++;
+        }
+    }
+}
+void BubbleSort(int arr[], int len)
+{
+    int flag = 0;
+    for(int i=0; i<len-1; i++)
+    {
+        BubbleUp(arr,i,len-1,flag);
+
+        if(flag == 0)
+            break;
+    }
+}
+
+//Selection Sort
+
+//GETTING MINIMUM ELEMENTS INDEX
+int GetMinIndex(int arr[], int i, int len)
+{
+    int minIndex = i;
+    for(int j=i+1; j<len; j++){
+        if(arr[j] < arr[minIndex]){
+            minIndex = j;
+        }
+    }
+    return minIndex;
+}
+//SELECTION SORT
+void SelectionSort(int arr[], int len)
+{
+    int minIndex;
+    for(int i=0; i<len-1; i++){
+
+        minIndex = GetMinIndex(arr,i,len);
+        Swap(arr[i],arr[minIndex]);
+    }
+}
+/*SELECTION SORT ALTERNATIVE---------------|
+|void SelectionSort(int arr[], int len)    |
+|{                                         |
+|    int minIndex;                         |
+|    for(int i=0; i<len-1; i++){           |
+|        minIndex = i;                     |
+|                                          |
+|        for(int j=i+1; j<len; j++){       |
+|            if(arr[j] < arr[minIndex]){   |
+|                minIndex = j;             |
+|            }                             |
+|        }                                 |
+|        int temp = arr[minIndex];         |
+|        arr[minIndex] = arr[i];           |
+|        arr[i] = temp;                    |
+|    }                                     |
+|}----------------------------------------*/
+
+//Insertion Sort
+
+void InsertItem(int arr[], int start, int end)
+{
+    while(end > 0 && arr[end] < arr[end-1])
+    {
+        Swap(arr[end],arr[end-1]);
+        end--;
+    }
+}
+void InsertionSort(int arr[], int len)
+{
+    for(int i=0; i<len; i++){
+        InsertItem(arr,0,i);
+    }
+}
+
+//Binary Search
+
+bool binarySearch(int arr[], int length, int item)
+{
+    int midPoint, first = 0, last = length - 1;
+    bool moreToSearch = (first <= last);
+    bool found = false;
+    
+    while (moreToSearch && !found)
+    {
+        midPoint = (first + last) / 2;
+        
+        if(item < arr[midPoint]){
+            last = midPoint - 1;
+            moreToSearch = (first <= last);
+        }
+        else if(item > arr[midPoint]){
+            first = midPoint + 1;
+            moreToSearch = (first <= last);
+        }
+        else{
+                found = true;
+        }
+    }
+    return found;
+}
+
+int main()
+{
+    int arr[10] = {1,2,3,4,5,6,7,8,9,10};
+    for(int i=0; i<10; i++)
+        cout << arr[i] << " ";
+        cout << endl;
+    cout << binarySearch(arr,10,10);
+
+    return 0;
+}

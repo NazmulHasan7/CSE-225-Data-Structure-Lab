@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586590710 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\tree data structure\bst bredth first traversal\main.cpp
+	<iostream>
+	<queue>
+

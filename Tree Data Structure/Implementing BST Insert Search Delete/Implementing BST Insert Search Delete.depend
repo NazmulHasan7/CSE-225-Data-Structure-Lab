@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586437873 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\tree data structure\implementing bst insert search delete\main.cpp
+	<iostream>
+	"BST.cpp"
+
+1586437648 source:g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\tree data structure\implementing bst insert search delete\bst.cpp
+	<iostream>
+	"BST.h"
+
+1586434910 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\tree data structure\implementing bst insert search delete\bst.h
+
+1586437648 g:\nsu cse\4th_spring'20\cse 225 lab [ tonmoay deb ]\data structures\tree data structure\implementing bst insert search delete\bst.cpp
+	<iostream>
+	"BST.h"
+
